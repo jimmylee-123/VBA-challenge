@@ -1,2 +1,2 @@
-# challenge2
-Data Analytics Bootcamp - Challenge 2
+# VBA-challenge
+Data Analytics Bootcamp - Challenge Module 2
